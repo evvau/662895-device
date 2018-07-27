@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Дмитрий Орлов](https://up.htmlacademy.ru/htmlcss/21/user/662895).
-* Наставник: [Алексей Симоненко](https://up.htmlacademy.ru/htmlcss/21/user/662895).
+* Наставник: [Алексей :) Симоненко](https://up.htmlacademy.ru/htmlcss/21/user/662895).
 
 ---
 
